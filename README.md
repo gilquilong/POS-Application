@@ -1,6 +1,8 @@
 # Laravel POS — From Arrays to Eloquent
 
-This project implements IT0049 TFA6 for Arellano, Esguerra, and Pantas. Professor: Rico Santos. It uses Laravel migrations, seeders, Eloquent models, controllers, and Blade views for customers and users.
+This project implements IT0049 TFA6 for Arellano, Thomas; Esguerra, Samantha; and Pantas, Aicelle. Professor: Rico Santos. It uses Laravel migrations, seeders, Eloquent models, controllers, and Blade views for customers and users.
+
+TFA7 extends this same project with validated create/edit forms, old input and validation errors, a unique username rule, an avatar migration, validated image upload, display-ready JPEG preparation with Intervention Image, public-disk storage, and placeholder fallback.
 
 ## Setup
 
